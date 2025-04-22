@@ -1,0 +1,62 @@
+[
+    {
+        "user_id": "1",
+        "type": "deposit",
+        "amount": 500,
+        "timestamp": "2025-04-22T03:34:28+00:00"
+    },
+    {
+        "user_id": "1",
+        "type": "deposit",
+        "amount": 500,
+        "timestamp": "2025-04-22T12:53:52+00:00"
+    },
+    {
+        "user_id": "1",
+        "type": "withdraw",
+        "amount": 500,
+        "timestamp": "2025-04-22T12:54:15+00:00"
+    },
+    {
+        "user_id": "1",
+        "type": "withdraw",
+        "amount": 500,
+        "timestamp": "2025-04-22T12:54:15+00:00"
+    },
+    {
+        "user_id": "1",
+        "type": "deposit",
+        "amount": 500,
+        "timestamp": "2025-04-22T12:55:25+00:00"
+    },
+    {
+        "user_id": "1",
+        "type": "deposit",
+        "amount": 500,
+        "timestamp": "2025-04-22T12:55:25+00:00"
+    },
+    {
+        "user_id": "1",
+        "type": "deposit",
+        "amount": 500,
+        "timestamp": "2025-04-22T12:55:33+00:00"
+    },
+    {
+        "user_id": "1",
+        "type": "deposit",
+        "amount": 500,
+        "timestamp": "2025-04-22T12:55:34+00:00"
+    },
+    {
+        "user_id": "1",
+        "type": "withdraw",
+        "amount": 100,
+        "timestamp": "2025-04-22T12:57:00+00:00"
+    },
+    {
+        "user_id": "1",
+        "type": "withdraw",
+        "amount": 500,
+        "timestamp": "2025-04-22T12:57:08+00:00"
+    }
+]
